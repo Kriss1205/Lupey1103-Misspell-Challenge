@@ -20,10 +20,10 @@
 ### :feelsgood: About Me : 
 I am a Full Stack Developer <img src="https://media2.giphy.com/media/EauwThrXwq0EWngOcT/giphy.gif?cid=ecf05e47v40kai09wiyujmzjk2ipqoz41kn2eax75q8cod4p&rid=giphy.gif&ct=s" width="30"> from Miami, FL.
 
-- 💻 I'm working as a Teachers Assistant at 4Geeks Academy helping teach Software Development such as Front End and Back End programming languages for web applications
-- 📖 Learning new programming languages and libraries to hone my skills as a software developer
+- 💻 I'm working as a Teachers Assistant at 4Geeks Academy helping teach Software Development such as Front End and Back End programming languages for web applications.
+- 📖 Learning new programming languages and libraries to hone my skills as a software developer.
 - 🎮 With my spare time I like to play video games, skateboard, play drums and guitar, and work on personal projects.
-- 🐈 I have 3 rescued cats named ⚔️ Xena (Short Hair Tabby), 👑 Duchess (Tuxedo), and 👔 Oskar (Black Cat)
+- 🐈 I have 3 rescued cats named ⚔️ Xena (Short Hair Tabby), 👑 Duchess (Tuxedo), and 👔 Oskar (Black Cat).
 
 ---
 
